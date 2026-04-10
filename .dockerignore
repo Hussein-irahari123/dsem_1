@@ -1,0 +1,15 @@
+backend/target/
+**/target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+.idea/
+.vscode/
+.mvn/
+.git/
+.gitignore
+*.iml
+Dockerfile
+.dockerignore
